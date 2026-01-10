@@ -78,28 +78,28 @@ NetBeans IDE project structure
 📸 Screenshots & Features
 🔐 Login Screen
 Users authenticate using email and password. Firebase verifies credentials and assigns roles.
-![Login Screen](Capture.PNG)
+![Login Screen](login_screen.PNG)
 
 🧑‍💼 Admin Dashboard
 Admins can view all users, manage events, and securely log out.
-![Admin Dashboard](Capture2.PNG)
+![Admin Dashboard](admin_dashboard.PNG)
 
 📅 Event Management Table
 Admins can add, edit, delete, and view events. Each entry includes title, description, location, and date.
-![Event Table](Capture3.PNG)
+![Event Table](event_manager.PNG)
 
 
 🎉 Upcoming Events View
 Students can browse upcoming events relevant to them, with clear location and date info.
-![Upcoming Events](Capture4.PNG)
+![Upcoming Events](upcoming_events.PNG)
 
 👩‍🎓 Student Dashboard
 Simplified dashboard for students to access event info and log out.
-![Student Dashboard](Capture6.PNG)
+![Student Dashboard](student_dashboard.PNG)
 
 🧪 Firebase Integration
 Real-time database connection confirmed. Displays total registered users and login success.
-![Firebase Integration](Capture7.PNG)
+![Firebase Integration](firebase_intergration.PNG)
 
 🏆 Key Achievements
 Fully functional event management GUI
