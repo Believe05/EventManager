@@ -92,7 +92,7 @@ Admins can view all users, manage events, and securely log out.
 
 📅 Event Management Table
 Admins can add, edit, delete, and view events. Each entry includes title, description, location, and date.
-![Event Table](event_manager.PNG)
+![Event Table](event_managerTable.PNG)
 
 
 🎉 Upcoming Events View
