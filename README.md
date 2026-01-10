@@ -23,13 +23,13 @@ Manage university events easily: add, edit, delete, and search events with a sim
 
 ## 📁 Project Structure
 EventManagementSystem/
-├─ app/ # Main application entry points
-├─ model/ # Event and data models
-├─ service/ # Business logic / service classes
-├─ ui/ # GUI components
-├─ util/ # Utilities (file handling, validation)
-├─ target/classes/serviceAccountKey.json # Dummy key for demo only
-└─ README.md
+ ├─ app/        # Main application entry points
+ ├─ model/      # Event and data models
+ ├─ service/    # Business logic / service classes
+ ├─ ui/         # GUI components
+ ├─ util/       # Utilities (file handling, validation)
+ ├─ target/classes/serviceAccountKey.json   # Dummy key for demo only
+ └─ README.md
 
 
 ---
@@ -48,9 +48,7 @@ Then replace placeholder values with your own Firebase service account credentia
 
 
 ---
-
-## How to Run
-
+▶️ How to Run
 Open the project in NetBeans IDE
 
 Build the project: Clean and Build
@@ -60,7 +58,6 @@ Run the main class (located in app/)
 The GUI will open — manage events easily!
 
 🏗 Tech Stack
-
 Java SE 11+
 
 Java Swing for GUI
@@ -72,6 +69,30 @@ File-based storage (plain text or JSON)
 NetBeans IDE project structure
 
 ---
+📸 Screenshots & Features
+🔐 Login Screen
+Users authenticate using email and password. Firebase verifies credentials and assigns roles.
+[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
+
+🧑‍💼 Admin Dashboard
+Admins can view all users, manage events, and securely log out.
+[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
+
+📅 Event Management Table
+Admins can add, edit, delete, and view events. Each entry includes title, description, location, and date.
+[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
+
+🎉 Upcoming Events View
+Students can browse upcoming events relevant to them, with clear location and date info.
+[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
+
+👩‍🎓 Student Dashboard
+Simplified dashboard for students to access event info and log out.
+[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
+
+🧪 Firebase Integration
+Real-time database connection confirmed. Displays total registered users and login success.
+[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
 
 Key Achievements
 
