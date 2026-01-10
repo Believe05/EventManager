@@ -41,12 +41,14 @@ Do **not use real keys** in public repositories.
 
 To run the project locally:
 
-```bash
+bash
 cp target/classes/serviceAccountKey.example.json target/classes/serviceAccountKey.json
 
 Then replace placeholder values with your own Firebase service account credentials if you plan to connect to Firebase.
 
+
 ---
+
 ## How to Run
 
 Open the project in NetBeans IDE
@@ -69,6 +71,7 @@ File-based storage (plain text or JSON)
 
 NetBeans IDE project structure
 
+---
 
 Key Achievements
 
@@ -79,6 +82,8 @@ Modular, reusable OOP design
 Demonstrates Java Swing, file handling, GUI design, and project organization
 
 Ready for extension with databases, user authentication, or cloud services
+
+---
 
 📈 Possible Enhancements
 
