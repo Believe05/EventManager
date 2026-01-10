@@ -55,6 +55,7 @@ cp target/classes/serviceAccountKey.example.json target/classes/serviceAccountKe
 
 Then replace placeholder values with your own Firebase service account credentials if you plan to connect to Firebase.
 
+---
 ##▶️ How to Run
 Open the project in NetBeans IDE
 
@@ -63,6 +64,8 @@ Build the project: Clean and Build
 Run the main class (located in app/)
 
 The GUI will open — manage events easily!
+
+---
 
 🏗 Tech Stack
 Java SE 11+
@@ -74,6 +77,8 @@ OOP design (model, service, ui, util)
 File-based storage (plain text or JSON)
 
 NetBeans IDE project structure
+
+---
 
 📸 Screenshots & Features
 
