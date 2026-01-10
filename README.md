@@ -55,7 +55,7 @@ cp target/classes/serviceAccountKey.example.json target/classes/serviceAccountKe
 
 Then replace placeholder values with your own Firebase service account credentials if you plan to connect to Firebase.
 
-▶️ How to Run
+##▶️ How to Run
 Open the project in NetBeans IDE
 
 Build the project: Clean and Build
@@ -76,6 +76,7 @@ File-based storage (plain text or JSON)
 NetBeans IDE project structure
 
 📸 Screenshots & Features
+
 🔐 Login Screen
 Users authenticate using email and password. Firebase verifies credentials and assigns roles.
 ![Login Screen](login_screen.PNG)
