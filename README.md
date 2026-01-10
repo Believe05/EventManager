@@ -19,27 +19,7 @@ Manage university events easily: add, edit, delete, and search events with a sim
 
 ---
 
-## 📁 Project Structure
-# Event Management System 🎉
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)](https://www.java.com/)
-[![NetBeans](https://img.shields.io/badge/NetBeans-0093D0?style=flat&logo=apache-netbeans&logoColor=white)](https://netbeans.apache.org/)
-
-**Java-based Event Management System** built with NetBeans.  
-Manage university events easily: add, edit, delete, and search events with a simple GUI.
-
----
-
-## 📌 Features
-
-- Add new events: title, date, category, description  
-- Edit or delete existing events  
-- Search events by date or category  
-- GUI implemented using Java Swing (`JFrame`, `JPanel`, `JButton`)  
-- Modular code: organized by `app`, `model`, `service`, `ui`, `util`  
-- File-based storage (can be extended to Firebase or SQL)  
-
----
 
 ## 📁 Project Structure
 EventManagementSystem/
