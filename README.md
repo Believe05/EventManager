@@ -50,7 +50,7 @@ Do **not use real keys** in public repositories.
 
 To run the project locally:
 
-```bash
+bash
 cp target/classes/serviceAccountKey.example.json target/classes/serviceAccountKey.json
 
 Then replace placeholder values with your own Firebase service account credentials if you plan to connect to Firebase.
