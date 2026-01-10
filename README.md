@@ -56,7 +56,7 @@ cp target/classes/serviceAccountKey.example.json target/classes/serviceAccountKe
 Then replace placeholder values with your own Firebase service account credentials if you plan to connect to Firebase.
 
 ---
-##▶️ How to Run
+## ▶️ How to Run
 Open the project in NetBeans IDE
 
 Build the project: Clean and Build
@@ -67,7 +67,7 @@ The GUI will open — manage events easily!
 
 ---
 
-🏗 Tech Stack
+## 🏗 Tech Stack
 Java SE 11+
 
 Java Swing for GUI
@@ -80,7 +80,7 @@ NetBeans IDE project structure
 
 ---
 
-📸 Screenshots & Features
+## 📸 Screenshots & Features
 
 🔐 Login Screen
 Users authenticate using email and password. Firebase verifies credentials and assigns roles.
@@ -107,7 +107,9 @@ Simplified dashboard for students to access event info and log out.
 Real-time database connection confirmed. Displays total registered users and login success.
 ![Firebase Integration](firebase_intergration.PNG)
 
-🏆 Key Achievements
+---
+
+## 🏆 Key Achievements
 Fully functional event management GUI
 
 Modular, reusable OOP design
@@ -116,7 +118,9 @@ Demonstrates Java Swing, file handling, GUI design, and project organization
 
 Ready for extension with databases, user authentication, or cloud services
 
-📈 Possible Enhancements
+---
+
+## 📈 Possible Enhancements
 Integrate Firebase or SQL database for persistent storage
 
 Add user authentication and roles
@@ -127,7 +131,9 @@ Add unit testing for service classes
 
 Improve GUI with animations or better layouts
 
-💡 Tips for Recruiters / Developers
+---
+
+## 💡 Tips for Recruiters / Developers
 Demonstrates full OOP principles in Java
 
 Clean, modular, maintainable code structure
@@ -135,26 +141,27 @@ Clean, modular, maintainable code structure
 GUI project ready for portfolio or interview demonstration
 
 Safe for GitHub: no real credentials included
+---
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License — see the [Looks like the result wasn't safe to show. Let's switch things up and try something else!] file for details.
 
-👤 Author
+## 👤 Author
 Developed by Bongiwe Believe Magagule
 
 🎓 Computer Science Student at TUT
 
 🌍 Emalahleni, Mpumalanga, South Africa
 
-🔗 LinkedIn | GitHub
+🔗 LinkedIn linkedin.com/in/bongiwe-magagule-288863305 | GitHub
 
 Code
 
 ---
 
-✨ This version is **clean, professional, and recruiter‑ready**. It fixes formatting, replaces placeholders with your actual screenshots, and adds polish with License + Author sections.  
+ 
 
-Would you like me to also generate a **short “About Project” summary paragraph** at the very top (like a pitch) so recruiters immediately understand the value before diving into details?
+
 
 
 
